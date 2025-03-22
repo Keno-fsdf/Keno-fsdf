@@ -5,7 +5,7 @@ Momentan arbeite ich an einem kleinen Data Warehouse.
 
 Dieses Repository wurde ursprünglich für meine Kommilitonen an der Uni erstellt. Ich habe hier meine Lösungen für „Programmieren 1“ in Java hochgeladen. 
 Der Ordner ist wie folgt strukturiert:
-Java-Files-VS-Code → src → Sortiert → Lektion ...
+Workspaces-Coding --> Java-Files-VS-Code → src → Sortiert → Lektion ...
 
 
 
