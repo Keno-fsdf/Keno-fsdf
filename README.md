@@ -10,4 +10,4 @@ a command line tool for Dataverse.
 **Tools I use:** C# / .NET, JavaScript, Dataverse, model driven apps,
 PCF, the pac and pacx CLIs.
 
-**Reach me:** [LinkedIn](https://www.linkedin.com/in/keno-sch%C3%BCrger/)
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/keno-schuerger/)
