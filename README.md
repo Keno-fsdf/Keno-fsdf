@@ -1,9 +1,13 @@
-Keno-fsdf
-Ich studiere an der THWS Wirtschaftsinfomatik in Würzburg.
+# Hi, I'm Keno
 
-Dieses Repository wurde ursprünglich für meine Kommilitonen an der Uni erstellt. Ich habe hier meine Lösungen für „Programmieren 1“ in Java hochgeladen. 
-Der Ordner ist wie folgt strukturiert:
-Workspaces-Coding --> Java-Files-VS-Code → src → Sortiert → Lektion ...
+Business informatics student at THWS Würzburg and working student in
+Microsoft Dynamics 365 / Power Platform development.
 
+**Currently working on:** contributions to
+[Greg.Xrm.Command (PACX)](https://github.com/neronotte/Greg.Xrm.Command),
+a command line tool for Dataverse.
 
+**Tools I use:** C# / .NET, JavaScript, Dataverse, model driven apps,
+PCF, the pac and pacx CLIs.
 
+**Reach me:** [LinkedIn](https://www.linkedin.com/in/keno-sch%C3%BCrger/)
