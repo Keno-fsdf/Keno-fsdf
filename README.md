@@ -1,6 +1,6 @@
 # Hi, I'm Keno
 
-Business informatics student at THWS Würzburg and working student in
+Business Information Systems student at THWS Würzburg and working student in
 Microsoft Dynamics 365 / Power Platform development.
 
 **Currently working on:** contributions to
